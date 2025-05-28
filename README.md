@@ -1,6 +1,6 @@
 # Project Manangement Flashcard Quiz
 
-This is a self-contained **flashcard-style quiz** focused on **Data Mining** concepts. The project is built using a single HTML file that includes embedded JavaScript and CSS. It runs entirely in your browser — no setup or installation required.
+This is a self-contained **flashcard-style quiz** focused on **Project Manangement** concepts. The project is built using a single HTML file that includes embedded JavaScript and CSS. It runs entirely in your browser — no setup or installation required.
 
 ## File Included
 
